@@ -7,7 +7,7 @@
  <br />
 
 
-### We integrated AIRSIM, which uses Unreal Game Engine to generate a photo-realistic environment, and GAZEBO, which has physics engines for customizable vehicle dynamic models.
+### We integrated AIRSIM (https://www.microsoft.com/en-us/ai/autonomous-systems-project-airsim), which uses Unreal Game Engine (https://www.unrealengine.com) to generate a photo-realistic environment, and GAZEBO (within PX4 development at https://docs.px4.io/main/en/simulation/gazebo.html), which has physics engines for customizable vehicle dynamic models.
 
 <img src="thumbnails/Diagram_Simulator.png" width="900">
  <br />

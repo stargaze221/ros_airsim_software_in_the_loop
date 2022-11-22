@@ -17,5 +17,9 @@
 
 <img src="thumbnails/gif_simulation.gif" width="900">
 
+<img src="thumbnails/OCTOMAP.gif" width="900">
+
+<img src="thumbnails/MPPI_BEV2.gif" width="900">
+
 
 

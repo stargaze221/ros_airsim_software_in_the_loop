@@ -20,7 +20,7 @@
 ### Occupancy Gridmap with LIDAR
 <img src="thumbnails/OCTOMAP.gif" width="700">
 
-### Local Path Planngin with BEV Segmentation
+### Local Path Planning with BEV Segmentation
 <img src="thumbnails/MPPI_BEV2.gif" width="700">
 
 

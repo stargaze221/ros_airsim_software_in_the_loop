@@ -23,5 +23,8 @@
 ### Local Path Planning with BEV Segmentation
 <img src="thumbnails/MPPI_BEV2.gif" width="700">
 
+### CARLA Environment
+<img src="thumbnails/carla_environment.gif" width="700">
+
 
 
